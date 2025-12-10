@@ -1,0 +1,12 @@
+@keyframes border-highlight {
+    0% {
+      border-color: transparent;
+    }
+    50% {
+      border-color: rgba(245, 52, 116, 0.5);
+    }
+    100% {
+      border-color: #f53474;
+    }
+  }
+  

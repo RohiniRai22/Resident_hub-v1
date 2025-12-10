@@ -1,0 +1,21 @@
+.banner-container {
+    /* Add any styles you need for the container */
+  }
+  
+  .site-blocks-cover {
+    background-size: cover;
+    background-position: center;
+    /* Add other styles as needed */
+  }
+  
+  .btn-black {
+    background-color: black;
+    color: white;
+    /* Add other button styles as needed */
+  }
+  
+  .btn-black:hover {
+    background-color: #333;
+    /* Add hover styles if needed */
+  }
+  

@@ -1,0 +1,25 @@
+Module Description
+Name: Rohini Rai G
+ResidentHub (Apartment Service Management System)
+1) ADMIN
+•	Login
+•	Manage Residents
+•	Manage Service Requests
+•	Manage Complaints
+•	Manage Payments
+•	View Feedback
+2). RESIDENT
+•	Register
+•	Login
+•	View Resident
+•	Rent an apartment
+•	Request Services
+•	Track Service Requests
+•	Make Payments
+•	Submit Complaints
+•	Write Feedback
+3). SERVICE PROVIDER
+•	Login
+•	View Assigned Tasks
+•	Update Task Status
+•	Receive Notifications
